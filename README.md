@@ -1,5 +1,5 @@
 # Nashville Housing Data Cleaning Project
-![Housing](housing-image.jpg)
+![Housing](image-housing.jpg)
 
 ### Project Overview
 ---
