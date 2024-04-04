@@ -55,7 +55,7 @@ The dataset is provided in CSV format and contains 1 file, 19 rows and 56477 col
 
 ### SQL Queries:
 ---
-For the rest of the code, check the [SQL Code](NashvilleHousing.sql) file
+For the rest of the code, check the [SQL Code](nashville-housing.sql) file
 ```SQL
 CREATE DATABASE nashville_housing;
 ---import nashville housing csv file
